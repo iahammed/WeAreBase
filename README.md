@@ -5,7 +5,7 @@ Console command to download and import UK postcodes
 From command prompt run php console to see the available command.
 
 #partial string matches
-run > php console WeArePartial < PARTIAL CODE >
+run > php console WeAreBasePartial < PARTIAL CODE >
 
 #location (latitude, longitude)
 run > php console WeAreBaseLocation < LATITUTDE > < LONGITUDE >
