@@ -1,13 +1,13 @@
 # WeAreBase
 Console command to download and import UK postcodes
 
-#HOW TO RUN
+# HOW TO RUN
 From command prompt run php console to see the available command.
 
-#partial string matches
+# partial string matches
 run > php console WeAreBasePartial < PARTIAL CODE >
 
-#location (latitude, longitude)
+# location (latitude, longitude)
 run > php console WeAreBaseLocation < LATITUTDE > < LONGITUDE >
 
 
